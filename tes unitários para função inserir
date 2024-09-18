@@ -1,0 +1,23 @@
+[33mcommit a55a05842635209b1f3622f662ad6f756e325a35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Richard <richardmatteus96@gmail.com>
+Date:   Tue Sep 17 21:02:11 2024 -0300
+
+    Testes unitários para função inserir
+
+[33mcommit 64bbc71e43fa472cc892ff292010f0c7384f453e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luis Henrique Ries <prof.ries@gmail.com>
+Date:   Sat Sep 14 19:48:32 2024 -0300
+
+    adicionado o import comentado - tinha sido removido
+
+[33mcommit 26ccac8783d0e6257f57c4297e210fafb7e86b13[m
+Author: Luis Henrique Ries <prof.ries@gmail.com>
+Date:   Sat Sep 14 19:45:34 2024 -0300
+
+    Atualizacao do codigo para trabalhar com require
+
+[33mcommit 39cdff15392d2429049f54ebbd44c0c0b6905957[m
+Author: Luis Henrique Ries <prof.ries@gmail.com>
+Date:   Sat Sep 14 17:03:36 2024 -0300
+
+    Crud de Produtos - Padrao Repository
